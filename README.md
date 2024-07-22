@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**Ratuzz/Ratuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Vieira
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na línguagem JavaScript
+- Utiizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode enrar em contato comigo 📧
+
+  pedrovieirarads@gmail.com
+  
+  @vieeiraz_
+
+![](https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif)
